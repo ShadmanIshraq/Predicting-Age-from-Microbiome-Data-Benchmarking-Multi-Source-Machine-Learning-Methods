@@ -12,7 +12,9 @@ Perform descriptive and taxonomic analysis, differential abundance analysis, and
 
 ### Repository Structure
 Data Preparation.R: Scripts for preprocessing the microbiome datasets, including data cleaning, transformation, and feature selection.
+
 Data Analysis.R: Exploratory and descriptive analysis of the datasets, including statistical summaries and visualization.
+
 Data Modeling.R: Implementation of machine learning models, hyperparameter tuning, and model evaluation using cross-validation techniques.
 
 ### Dataset
