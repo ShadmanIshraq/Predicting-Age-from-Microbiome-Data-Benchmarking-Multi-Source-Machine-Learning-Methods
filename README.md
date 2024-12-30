@@ -20,5 +20,6 @@ The dataset used in this project is the LifeLines DEEP dataset, sourced from the
 
 ### References
 1. Mallick H et al. (2024). [An Integrated Bayesian Framework for Multi-omics Prediction and Classification.](https://onlinelibrary.wiley.com/doi/10.1002/sim.9953). Statistics in Medicine 43(5):983–1002
+2. Lahti et al. (2021). [Orchestrating Microbiome Analysis with Bioconductor](https://microbiome.github.io/OMA/docs/devel/).
 
 
