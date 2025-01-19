@@ -11,11 +11,11 @@ Explore the significance and correlation of features with the target variable (a
 Perform descriptive and taxonomic analysis, differential abundance analysis, and model evaluation.
 
 ### Repository Structure
-Data Preparation.R: Scripts for preprocessing the microbiome datasets, including data cleaning, transformation, and feature selection.
+data_preparation.R: Scripts for preprocessing the microbiome datasets, including data cleaning, transformation, and feature selection.
 
-Data Analysis.R: Exploratory and descriptive analysis of the datasets, including statistical summaries and visualization.
+data_analysis.R: Exploratory and descriptive analysis of the datasets, including statistical summaries and visualization.
 
-Data Modeling.R: Implementation of machine learning models, hyperparameter tuning, and model evaluation using cross-validation techniques.
+data_modeling.R: Implementation of machine learning models, hyperparameter tuning, and model evaluation using cross-validation techniques.
 
 ### Dataset
 The dataset used in this project is the LifeLines DEEP dataset, sourced from the curatedMetagenomicData package.
