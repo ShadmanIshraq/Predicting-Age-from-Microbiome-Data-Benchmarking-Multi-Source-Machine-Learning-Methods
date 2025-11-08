@@ -5,10 +5,10 @@ This repository contains the code and resources for my thesis project, which foc
 ### Project Overview
 The goal of this project is to:
 
-Analyze microbiome datasets (relative abundance, marker abundance, and pathway abundance) to predict age.
-Benchmark machine learning models, including Random Forest, Gradient Boosting Machine, eXtreme Gradient Boosting, and IntegratedLearner method.
-Explore the significance and correlation of features with the target variable (age).
-Perform descriptive and taxonomic analysis, differential abundance analysis, and model evaluation.
+-Analyze microbiome datasets (relative abundance, marker abundance, and pathway abundance) to predict age.
+-Benchmark machine learning models, including Random Forest, Gradient Boosting Machine, eXtreme Gradient Boosting, and IntegratedLearner method.
+-Explore the significance and correlation of features with the target variable (age).
+-Perform descriptive and taxonomic analysis, differential abundance analysis, and model evaluation.
 
 ### Repository Structure
 data_preparation.R: Scripts for preprocessing the microbiome datasets, including data cleaning, transformation, and feature selection.
